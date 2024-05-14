@@ -30,7 +30,7 @@ The book covers:
 * Create custom Windows and Linux images for use in your private cloud environment.
 
 ## Environment included with the OpenStack Cookbook Vagrant
-![Setup Overview](https://github.com/josymon/openstack/blob/main/openstack_install_setup.png)
+
 
 ## Usage
 ### Requirements
